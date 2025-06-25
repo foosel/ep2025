@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="266.4046mm"
+   height="96.627563mm"
+   viewBox="0 0 266.4046 96.627563"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="stress-response-cycle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.254321"
+     inkscape:cx="342.01771"
+     inkscape:cy="130.74803"
+     inkscape:window-width="3072"
+     inkscape:window-height="1619"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.537073,-63.379689)">
+    <g
+       id="g2"
+       inkscape:label="CarryOn"
+       transform="translate(214.51397,-35.244756)">
+      <circle
+         style="fill:#169300;fill-opacity:1;stroke-width:0.264583"
+         id="path1-6"
+         cx="46.072227"
+         cy="118.97991"
+         r="20.355467" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:Arvo-Bold, Arvo;-inkscape-font-specification:'Arvo-Bold, Arvo Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="45.984379"
+         y="121.5"
+         id="text1-56"><tspan
+           sodipodi:role="line"
+           id="tspan1-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="45.984379"
+           y="121.5">Carry on</tspan></text>
+    </g>
+    <g
+       id="g3"
+       inkscape:label="StressorAcknowledged"
+       transform="translate(162.07386,9.0944585)">
+      <circle
+         style="fill:#169300;fill-opacity:1;stroke-width:0.264583"
+         id="path1-1"
+         cx="46.027443"
+         cy="128.65889"
+         r="20.355467" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:Arvo-Bold, Arvo;-inkscape-font-specification:'Arvo-Bold, Arvo Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="45.984379"
+         y="121.5"
+         id="text1-5"><tspan
+           sodipodi:role="line"
+           id="tspan1-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="45.984379"
+           y="121.5">Stressor</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="45.984379"
+           y="130.36594"
+           id="tspan5">acknow-</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="45.984379"
+           y="139.23186"
+           id="tspan6">ledged?</tspan></text>
+    </g>
+    <g
+       id="g4"
+       inkscape:label="FightInc"
+       transform="translate(113.99053,-35.244756)">
+      <circle
+         style="fill:#169300;fill-opacity:1;stroke-width:0.264583"
+         id="path1-5"
+         cx="46.072227"
+         cy="118.97991"
+         r="20.355467" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:Arvo-Bold, Arvo;-inkscape-font-specification:'Arvo-Bold, Arvo Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="46.153187"
+         y="116.37974"
+         id="text1-9"><tspan
+           sodipodi:role="line"
+           id="tspan1-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="46.153187"
+           y="116.37974">Fight or</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="46.153187"
+           y="125.24567"
+           id="tspan4">flight ++</tspan></text>
+    </g>
+    <g
+       id="g5"
+       inkscape:label="Threat"
+       transform="translate(64.561413,20.671874)">
+      <circle
+         style="fill:#169300;fill-opacity:1;stroke-width:0.264583"
+         id="path1-2"
+         cx="46.072227"
+         cy="118.97991"
+         r="20.355467" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:Arvo-Bold, Arvo;-inkscape-font-specification:'Arvo-Bold, Arvo Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="46.220367"
+         y="112.74776"
+         id="text1-7"><tspan
+           sodipodi:role="line"
+           id="tspan1-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="46.220367"
+           y="112.74776">&quot;This is</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="46.220367"
+           y="121.61369"
+           id="tspan2">a</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="46.220367"
+           y="130.47961"
+           id="tspan3">threat!&quot;</tspan></text>
+    </g>
+    <g
+       id="g6"
+       inkscape:label="Stressor"
+       transform="translate(-11.179688,20.671874)">
+      <circle
+         style="fill:#169300;fill-opacity:1;stroke-width:0.264583"
+         id="path1"
+         cx="46.072227"
+         cy="118.97991"
+         r="20.355467" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:Arvo-Bold, Arvo;-inkscape-font-specification:'Arvo-Bold, Arvo Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;stroke-width:0.264583"
+         x="45.984379"
+         y="121.5"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#ffffff;stroke-width:0.264583"
+           x="45.984379"
+           y="121.5">Stressor</tspan></text>
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       d="m 173.53975,146.49168 v -13.70365 h -14 v -4.43333 l -12.63632,10.99092 12.63632,11.55613 v -4.19549 z"
+       id="path7"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       d="m 59.10539,132.81189 v 13.70364 h 14 v 4.43334 L 85.741708,139.95794 73.10539,128.40182 v 4.19548 z"
+       id="path7-3"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       d="m 122.29798,116.91666 9.68993,9.68994 9.8995,-9.8995 3.13484,3.13485 1.16347,-16.70699 -17.10664,0.76382 2.96665,2.96665 z"
+       id="path7-3-1"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       d="m 221.34862,116.01343 9.68993,9.68994 9.8995,-9.8995 3.13484,3.13485 1.16347,-16.70699 -17.10664,0.76382 2.96665,2.96665 z"
+       id="path7-3-1-6"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       d="m 181.07713,95.28925 -9.68994,9.68993 9.8995,9.8995 -3.13485,3.13484 16.70699,1.16347 -0.76382,-17.10664 -2.96665,2.96665 z"
+       id="path7-3-1-3"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

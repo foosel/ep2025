@@ -1,0 +1,24 @@
+# https://taskfile.dev
+
+version: "3"
+
+env:
+  PRESENTATION: how-to-deal-with-toxic-people.md
+  SLIDES_URL: https://foosel.net/talks/ep2025
+
+tasks:
+  qrcode:
+    desc: Updates the slide QR Code
+    cmds:
+      - npx qrcode -o img/qrcode.png -w 1000 "{{ .SLIDES_URL }}"
+
+  build:
+    desc: Builds the presentation
+    cmds:
+      - task: qrcode
+      - mkslides build {{ .PRESENTATION }}
+  
+  serve:
+    desc: Serve the presentation
+    cmds:
+      - mkslides serve {{ .PRESENTATION }}
