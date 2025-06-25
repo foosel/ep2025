@@ -4,7 +4,7 @@ version: "3"
 
 env:
   PRESENTATION: how-to-deal-with-toxic-people.md
-  SLIDES_URL: https://foosel.net/talks/ep2025
+  SLIDES_URL: https://foosel.github.io/ep2025/
 
 tasks:
   qrcode:
