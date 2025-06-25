@@ -27,8 +27,17 @@ Gina Häußge // [foosel.net](https://foosel.net)
 
 Notes:
 
-- over 12 years of being a maintainer
-- plenty of bad experiences with toxic people & their bad behaviour
+- Gina Häußge aka foosel
+- full time Open Source maintainer on my project OctoPrint
+  - Snappy web interface for 3d printers
+- open source for most of my adult life
+  - over 12 years now on just OctoPrint
+  - lots of upsides but also downsides
+- Goal of this talk
+  - common bad behaviours I've seen
+  - provide coping strategies
+  - defuse the situation, protect personal sanity
+  - toolbelt for maintainers, guidance for users
 
 ---
 
@@ -37,6 +46,12 @@ Notes:
 ## What kind of bad behaviour?
 
 (Trigger warning)
+
+Notes:
+
+- I mentioned bad behaviours - what exactly are we talking about?
+- fair warning: some nasty sentences ahead
+- no actual quotes, but paraphrased of actual ones I got
 
 ---
 
@@ -58,6 +73,13 @@ Notes:
 </div>
 </div>
 
+Notes:
+
+- people think you owe them and ONLY THEM something
+- misunderstanding of the contract of OSS
+- or misunderstanding of the realities of OSS (= small group, solo, underfunded)
+- sometimes the nerve of some people just leaves you speechless
+
 ---
 
 <div class="multicolumn">
@@ -76,6 +98,15 @@ Notes:
 
 </div>
 </div>
+
+Notes:
+
+- people who have run into an issue with your project
+  - or something related to it
+- venting their frustration at you
+- especiall tricky: often a real issue at the bottom of this
+- you want to solve the issue
+- you don't want this kind of communication
 
 ---
 
@@ -96,11 +127,22 @@ Notes:
 </div>
 </div>
 
+Notes:
+
+- sadly very often
+- sometimes trolling
+- sometimes the next step of frustration or entitlement
+- never fun, very exhausting -> burnout
+
 ---
 
 <!-- .element: class="layout-full-cover-dark" data-background-image="img/coping-strategies.jpg" data-background-size="cover" -->
 
 ## Coping strategies
+
+Notes:
+
+- So how do we cope with stuff like this?
 
 ---
 
@@ -117,8 +159,19 @@ Notes:
 ### Disengage & cool down
 
 - Don't answer hot-headed
-- Run through your **stress response**
+- Run through your **stress response cycle**
 - Only then respond
+
+Notes:
+
+- first instinct: jump in & give them an earful
+- Don't!
+- Will make YOU look bad & escalate further
+- Instead let off some steam first:
+  - can recommend getting a punching bag
+  - jumping jacks, running in place, anything to get the heart-rate up
+- initial stress response cycle needs to run
+- only then respond
 
 ---
 
@@ -127,6 +180,23 @@ Notes:
 ### Stress response?
 
 <img src="img/stress-response-cycle.svg" width="1500" alt="Diagram showing the stress response cycle" style="margin-top: 1em" />
+
+Notes:
+
+- wait, stress response cycle?
+- see "Burnout" by Emily & Amelia Nagoski, "Why Zebras don't get ulcers" by Robert M. Sapolsky
+- this stuff = threat = psychological stress
+- your body reacts to psychological stress the same way it does to physical
+- adrenaline etc - your body gets prepped to fight or run away from a predator
+- this cocktail will stay in your blood for a LONG time
+- you can speed up getting back into normal mode through physical exhaustion
+- you even might to help yourself get "unstuck" if you are circling
+  - thoughts running circles in your head etc
+  - staying angry/upset
+  - ask me how I know!
+- completing the cycle gets your head back into gear
+- good idea in general to know how to achieve that
+- ok, once you are more yourself again: respond
 
 --- 
 
@@ -139,6 +209,23 @@ Notes:
 - Not just code, everything helps!
 - "Patches welcome" 👎
 
+Notes:
+
+- OSS doesn't give anyone the right to demand anything
+- based on collaboration & cooperation
+- users need to do their part to solve their issues too!
+- not everyone can code, that is FINE! Also helpful:
+  - being part of the community
+  - helping with issue analysis
+  - providing logs etc
+  - ...
+- anything that puts pressure OFF the maintainer helps everyone else
+- likelihood that stuff gets fixed also increases
+- bad: "patches welcome"
+  - very passive aggressive
+  - sounds like only code matters
+  - exception: "I could fix this in minutes!"
+
 ---
 
 <!-- .element: class="layout-half" data-background-image="img/boundaries.jpg" data-background-size="49%" data-background-position="right" -->
@@ -149,6 +236,16 @@ Notes:
 - Make overstepping clear
 - Enforce community rules (CoC)
 - ["The Social Contract of Open Source"](https://snarky.ca/the-social-contract-of-open-source) (Brett Cannon)
+
+Notes:
+
+- telling people that they overstepped boundaries is important
+- many don't even notice (blinded by entitlement, frustration)
+- communicate clearly: "I acknowledge the problem, but THIS is not how we'll interact with each other here"
+- surprising amount of apologies & constructive change after
+- doesn't work if you are still in attack mode yourself -> disengage!
+- can't find the right words? Read Brett Cannon's "The Social Contract of Open Source" for inspiration!
+- Abuser doesn't back down?
 
 ---
 
@@ -161,6 +258,17 @@ Notes:
 - Ban hammer (last resort!)
 - **Don't accept abuse!**
 
+Notes:
+
+- more options
+- have refused to work on particular issues (that only affected one person)
+- point the abuser to the door
+- ban hammer (forceful removal) as the last resort
+- important: you don't have to accept abuse
+- and for your sake and the sake of you community you shouldn't
+- better climate
+- so far very maintainer focused; what can the community do to help?
+
 ---
 
 <!-- .element: class="layout-half" data-background-image="img/community.jpg" data-background-size="49%" data-background-position="right" -->
@@ -170,6 +278,23 @@ Notes:
 - "This is just like it is in Open Source!" 👎
 - Call out bad behaviour!
 - **Always remember the human**
+
+Notes:
+
+- plenty of people, esp. old guard: "just like it is, you need a thick skin or leave it!"
+- I don't agree with that
+- we can all call out bad behaviour when we see it:
+  - remind people of the CoC
+  - remind people of unwelcome tone and attitude
+  - flag/report bad behaviour
+  - in general: step up for better treatment of each other
+- you don't have to leav this up to the maintainers
+- don't escalate, but speak up, downvote, report, etc
+- and: always remember YOURSELF that there is a human on the other side
+  - even if you are frustrated
+  - even if you are angry
+  - if push comes to shove: work out!
+  - remember your stress response cycle before responding in anger!
 
 ---
 
@@ -195,6 +320,12 @@ Robert M. Sapolsky
 
 </div>
 </div>
+
+Notes:
+
+- two books I mentioned
+- Burnout is a short read that gives you a good overview
+- Zebras is a full deep dive into stress in humans, very fascinating but a LOT
 
 ---
 
