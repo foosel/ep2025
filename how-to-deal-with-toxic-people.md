@@ -14,7 +14,7 @@ Gina Häußge // [foosel.net](https://foosel.net)
 
 --- 
 
-<!-- .element: class="layout-half" data-background-image="img/me.jpg" data-background-size="50%" data-background-position="right" -->
+<!-- .element: class="layout-half" data-background-image="img/me.jpg" data-background-size="49%" data-background-position="right" -->
 
 ## Gina Häußge
 
@@ -112,7 +112,7 @@ Notes:
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/zen.jpg" -->
+<!-- .element: class="layout-half" data-background-image="img/zen.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### Disengage & cool down
 
@@ -130,7 +130,7 @@ Notes:
 
 --- 
 
-<!-- .element: class="layout-half" data-background-image="img/realities.jpg" -->
+<!-- .element: class="layout-half" data-background-image="img/realities.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### Remind of realities
 
@@ -141,7 +141,7 @@ Notes:
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/boundaries.jpg" -->
+<!-- .element: class="layout-half" data-background-image="img/boundaries.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### Remind of boundaries
 
@@ -152,7 +152,7 @@ Notes:
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/additional-measures.jpg" -->
+<!-- .element: class="layout-half" data-background-image="img/additional-measures.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### Additional measures
 
@@ -163,7 +163,7 @@ Notes:
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/community.jpg" -->
+<!-- .element: class="layout-half" data-background-image="img/community.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### How the community can help
 
@@ -198,7 +198,7 @@ Robert M. Sapolsky
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/qrcode.png" -->
+<!-- .element: class="layout-half" data-background-image="img/qrcode.png" data-background-size="49%" data-background-position="right" -->
 
 ## Thank you for your attention!
 

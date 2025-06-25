@@ -263,12 +263,16 @@ div.multicolumn {
 .slides section.layout-half {
     width: 50%;
     left: 0;
-    padding-right: 10em;
 }
 
 .backgrounds div.layout-half .slide-background-content {
     background-size: 49%;
     background-position: right;
+}
+
+.reveal-viewport.reveal-scroll .scroll-page section.layout-half {
+    width: calc(var(--slide-width) / 2) !important;
+    left: 25% !important;
 }
 
 /* Layout: full cover */

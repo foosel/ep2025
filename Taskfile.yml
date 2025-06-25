@@ -21,4 +21,4 @@ tasks:
   serve:
     desc: Serve the presentation
     cmds:
-      - mkslides serve {{ .PRESENTATION }}
+      - mkslides serve -a 0.0.0.0:8000 {{ .PRESENTATION }}
