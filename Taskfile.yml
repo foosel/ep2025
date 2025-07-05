@@ -4,6 +4,9 @@ version: "3"
 
 env:
   PRESENTATION: how-to-deal-with-toxic-people.md
+  EXPORT: slides.pdf
+  PRESENTATION_TITLE: "How to deal with toxic people @ EP2025"
+  PRESENTATION_AUTHOR: "Gina Haeussge"
   SLIDES_URL: https://foosel.github.io/ep2025/
 
 tasks:
@@ -18,6 +21,7 @@ tasks:
     cmds:
       - task: qrcodes
       - mkslides build {{ .PRESENTATION }}
+      - npx decktape -s 1920x1080 --pdf-author "{{ .PRESENTATION_AUTHOR }}" --pdf-title "{{ .PRESENTATION_TITLE }}" ./site/index.html "./site/{{ .EXPORT }}"
   
   serve:
     desc: Serve the presentation
