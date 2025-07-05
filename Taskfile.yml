@@ -21,9 +21,15 @@ tasks:
     cmds:
       - task: qrcodes
       - mkslides build {{ .PRESENTATION }}
-      - npx decktape -s 1920x1080 --pdf-author "{{ .PRESENTATION_AUTHOR }}" --pdf-title "{{ .PRESENTATION_TITLE }}" ./site/index.html "./site/{{ .EXPORT }}"
   
   serve:
     desc: Serve the presentation
     cmds:
       - mkslides serve -a 0.0.0.0:8000 {{ .PRESENTATION }}
+
+  export:
+    desc: Exports the presentation as a PDF
+    cmds:
+      - task: qrcodes
+      - mkslides build {{ .PRESENTATION }}
+      - npx decktape reveal --progress=true -s 1920x1080 --pdf-author "{{ .PRESENTATION_AUTHOR }}" --pdf-title "{{ .PRESENTATION_TITLE }}" ./site/index.html ./{{ .EXPORT }}
