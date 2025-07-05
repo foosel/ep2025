@@ -234,7 +234,10 @@ li {
 .reveal .slide-number {
     font-size: 1rem;
     color: var(--hogent-controls);
-    background-color: transparent;
+    background-color: var(--hogent-white);
+    right: 0;
+    bottom: 1vh;
+    padding: 5px 8px;
 }
 
 .reveal .slide-number a {

@@ -7,15 +7,16 @@ env:
   SLIDES_URL: https://foosel.github.io/ep2025/
 
 tasks:
-  qrcode:
-    desc: Updates the slide QR Code
+  qrcodes:
+    desc: Updates the QR Codes
     cmds:
-      - npx qrcode -o img/qrcode.png -w 1000 "{{ .SLIDES_URL }}"
+      - npx qrcode -o img/qrcode-slides.png -w 1000 "{{ .SLIDES_URL }}"
+      - npx qrcode -o img/qrcode-contract.png -w 400 "https://snarky.ca/the-social-contract-of-open-source"
 
   build:
     desc: Builds the presentation
     cmds:
-      - task: qrcode
+      - task: qrcodes
       - mkslides build {{ .PRESENTATION }}
   
   serve:

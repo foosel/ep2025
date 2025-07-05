@@ -148,13 +148,11 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-### First:  Let off some steam!
-
 <img src="img/heavy-bag.gif" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/zen.jpg" data-background-size="49%" data-background-position="right" -->
+<!-- .element: class="layout-half" data-background-image="img/capybara2.jpg" data-background-size="49%" data-background-position="right" -->
 
 ### Disengage & cool down
 
@@ -319,6 +317,14 @@ Robert M. Sapolsky
 <img src="img/book-zebras.jpg" width="250" alt="Book cover: Why Zebras Don't Get Ulcers" />
 
 </div>
+<div>
+
+**The Social Contract of Open Source**<br />
+Brett Cannon
+
+<a href="https://snarky.ca/the-social-contract-of-open-source"><img src="img/qrcode-contract.png" width="400" alt="QR Code: "></a>
+
+</div>
 </div>
 
 Notes:
@@ -329,9 +335,11 @@ Notes:
 
 ---
 
-<!-- .element: class="layout-half" data-background-image="img/qrcode.png" data-background-size="49%" data-background-position="right" -->
+<!-- .element: class="layout-half" data-background-image="img/qrcode-slides.png" data-background-size="49%" data-background-position="right" -->
 
 ## Thank you for your attention!
+
+📖 [foosel.github.io/ep2025](https://foosel.github.io/ep2025)
 
 🌐 [foosel.net](https://foosel.net)
 
@@ -340,5 +348,5 @@ Notes:
 🦋 [@foosel.net](https://bsky.app/profile/foosel.net)
 
 <p style="font-size: 1.3rem; margin: 5em 0 0 0;">
-    Image credits: @wesleyphotography, @dre0316, @seanstratton, @mvdheuvel, @freegraphictoday, @jodaarba, @sheldonkeenedy & @hannahbushing on Unsplash. Huge thanks for sharing!
+    Image credits: @wesleyphotography, @dre0316, @mvdheuvel, @freegraphictoday, @jodaarba, @sheldonkeenedy & @hannahbushing on Unsplash. Huge thanks for sharing!
 </p>

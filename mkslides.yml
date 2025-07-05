@@ -9,6 +9,9 @@ revealjs:
   height: 1080
   width: 1920
   transition: fade
+  controls: false
+  hasOneBasedIndex: true
+  hash: true
 plugins:
   - name: RevealMermaid
     extra_javascript:
