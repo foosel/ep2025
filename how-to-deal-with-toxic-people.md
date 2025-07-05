@@ -177,7 +177,7 @@ Notes:
 
 ### Stress response?
 
-<img src="img/stress-response-cycle.svg" width="1500" alt="Diagram showing the stress response cycle" style="margin-top: 1em" />
+<img src="img/stress-response-cycle.svg" width="1500" alt="Diagram showing the stress response cycle" style="margin-top: 1em; margin-bottom: 4em" />
 
 Notes:
 
@@ -348,5 +348,5 @@ Notes:
 🦋 [@foosel.net](https://bsky.app/profile/foosel.net)
 
 <p style="font-size: 1.3rem; margin: 5em 0 0 0;">
-    Image credits: @wesleyphotography, @dre0316, @mvdheuvel, @freegraphictoday, @jodaarba, @sheldonkeenedy & @hannahbushing on Unsplash. Huge thanks for sharing!
+    Image credits: wesleyphotography, dre0316, mvdheuvel, freegraphictoday, jodaarba, sheldonkeenedy & hannahbushing on Unsplash, HIRO@sea on YouTube. Thanks for sharing!
 </p>
