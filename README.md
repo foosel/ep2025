@@ -31,3 +31,7 @@ task build
 ``` bash
 task export
 ```
+
+## Shortcuts
+
+- `S`: Pop-out window w/ speaker view

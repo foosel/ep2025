@@ -28,16 +28,18 @@ Gina Häußge // [foosel.net](https://foosel.net)
 Notes:
 
 - Gina Häußge aka foosel
-- full time Open Source maintainer on my project OctoPrint
+- 42 years old Software Enginner
+- also a maker & boulderer, PSF fellow and GitHub Star and 100% Nerd
+- most importantly: full time Open Source maintainer on my project OctoPrint
   - Snappy web interface for 3d printers
 - open source for most of my adult life
   - over 12 years now on just OctoPrint
-  - lots of upsides but also downsides
-- Goal of this talk
+  - have experienced lots of awesome things, but sadly also my share of bad behaviours
+- want to share:
   - common bad behaviours I've seen
-  - provide coping strategies
-  - defuse the situation, protect personal sanity
-  - toolbelt for maintainers, guidance for users
+  - coping strategies
+  - how to defuse the situation, protect personal sanity
+  - basically: toolbelt for maintainers, guidance for users
 
 ---
 
@@ -150,6 +152,13 @@ Notes:
 
 <img src="img/heavy-bag.gif" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
 
+Notes:
+
+- This is how I cope ;)
+- People used to think that I joke when I tell them I have a punching bag in my office
+- I'm a full time open source maintainer, it really helps!
+- Ok, but WHY does it help?
+
 ---
 
 <!-- .element: class="layout-half" data-background-image="img/capybara2.jpg" data-background-size="49%" data-background-position="right" -->
@@ -175,7 +184,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-### Stress response?
+### Stress response cycle?
 
 <img src="img/stress-response-cycle.svg" width="1500" alt="Diagram showing the stress response cycle" style="margin-top: 1em; margin-bottom: 4em" />
 
@@ -188,11 +197,13 @@ Notes:
 - adrenaline etc - your body gets prepped to fight or run away from a predator
 - this cocktail will stay in your blood for a LONG time
 - you can speed up getting back into normal mode through physical exhaustion
-- you even might to help yourself get "unstuck" if you are circling
+- you even might help yourself get "unstuck" if you are circling
   - thoughts running circles in your head etc
   - staying angry/upset
   - ask me how I know!
-- completing the cycle gets your head back into gear
+  - can happen if your brain thinks you didn't get the danger memo
+- completing the cycle gets your head back into gear by dealing with the stress
+  - stress != stressor!
 - good idea in general to know how to achieve that
 - ok, once you are more yourself again: respond
 
@@ -240,7 +251,9 @@ Notes:
 - telling people that they overstepped boundaries is important
 - many don't even notice (blinded by entitlement, frustration)
 - communicate clearly: "I acknowledge the problem, but THIS is not how we'll interact with each other here"
-- surprising amount of apologies & constructive change after
+- refer to your CoC
+  - you do have one, right?
+- surprising amount of apologies & constructive exchange after
 - doesn't work if you are still in attack mode yourself -> disengage!
 - can't find the right words? Read Brett Cannon's "The Social Contract of Open Source" for inspiration!
 - Abuser doesn't back down?
@@ -332,6 +345,7 @@ Notes:
 - two books I mentioned
 - Burnout is a short read that gives you a good overview
 - Zebras is a full deep dive into stress in humans, very fascinating but a LOT
+- QR Code points you to the mentioned post by Brett Canon
 
 ---
 
