@@ -19,6 +19,7 @@
     --hogent-white: #ffffff;
     --hogent-black: #000000;
     --hogent-font-family: "Montserrat", "Arial", sans-serif;
+    --slide-background: #fefefe;
 
     --wikipedia-a-color: #3366cc;
     --wikipedia-code-bg-color: #f8f8f8;
@@ -60,6 +61,10 @@ body {
 
 section {
     text-align: var(--content-align);
+}
+
+.reveal-viewport {
+    background-color: var(--slide-background);
 }
 
 h1,
